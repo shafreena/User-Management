@@ -1,0 +1,13 @@
+.header{
+  color:#3f51b5;
+  text-align: center;
+  padding: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  margin-bottom: 0;
+}
+.user-table{
+  margin: 0 20px;
+  max-height: calc(100vh - 100px);
+  overflow: auto;
+  border: 3px groove #3f51b5 ;
+}
